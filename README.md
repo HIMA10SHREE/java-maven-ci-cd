@@ -21,8 +21,11 @@ since the tomcat server need to get access of user access...we need to first con
 
 in jenkins server :
 install : maven
+         
           git
+          
           docker
+          
           jfrog
 
 
