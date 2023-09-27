@@ -31,9 +31,13 @@ install :
 configure the pipeline:
 
 1.add the tomcat server credentials
+
 2.jfrog credentials
+
 3. install the artifactory plugins
+
 4.deploy to container plugin
+
 5. to go the system configuration page and configure :
    maven and jfrog
           
