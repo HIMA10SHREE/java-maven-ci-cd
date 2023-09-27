@@ -20,14 +20,13 @@ since the tomcat server need to get access of user access...we need to first con
 ![Screenshot (177)](https://github.com/HIMA10SHREE/java-maven-ci-cd/assets/52618743/5331c11a-13ed-4961-84ce-cb7b0ac168a9)
 
 in jenkins server :
-install : maven
-         
+install :
+   ```bash
+          maven
           git
-          
           docker
-          
           jfrog
-
+```
 
 configure the pipeline:
 
